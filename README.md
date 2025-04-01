@@ -1,5 +1,6 @@
-# model_prune
-模型剪枝优化与部署
+# model compression
+模型压缩
 
-## NetworkSlimming
-- [network slimming](./01NetworkSlimming/README.md)
+## References
+- [Awesome Compression](https://github.com/datawhalechina/awesome-compression.git)
+
